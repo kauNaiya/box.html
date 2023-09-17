@@ -1,0 +1,44 @@
+.shop-section{
+    display:flex;
+    justify-content: space-evenly;
+    background-color:  #908fe465;
+}
+.box{
+    height: 310px;
+    border: 2px solid black; 
+    width: 23%;
+    background-color:rgb(194, 212, 192);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.box-img{ 
+     width: 400px;
+     height: 220px;
+     margin-bottom: 18px;
+     margin-top: -3px;
+}
+.box h1{
+     margin-top:5px;
+}
+.box-content {
+      margin-top: -6px;
+      margin-left: 20px;
+      margin-right: 10px;
+      margin-bottom: -6px;
+}
+h1{
+    text-align: center;
+    color: rgb(216, 43, 124);
+}
+a{
+    text-decoration: none; 
+    margin-left: 10px;
+    color: #2825ad;
+    font-size: 20px;
+} 
+  a:hover {
+    color: rgb(221, 33, 74);
+  }
+body{
+   background-color: rgb(86, 206, 126);
+}
